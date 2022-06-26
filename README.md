@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beyzaciftaslan
-- 👀 I’m interested in programming languages and K-POP
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @beyzaciftaslan and I'm from Kwangya
+- 👀 I’m interested in programming languages and NCT
+- 🌱 I’m currently learning C# programming language
+- 💞️ I'm looking forward to collaborating with taeyong lee in Neo Culture Technology
 - 📫 ciftaslanbeyza@gmail.com
 
 <!---
